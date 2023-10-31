@@ -2,7 +2,7 @@ from enum import Enum
 
 
 class SoftwareDesignAssistant(Enum):
-    INTRODUCTION = """
+    GUIDELINES_INTRODUCTION = """
 I'm in the process of designing a software system.
 I need your expertise for high-quality advice on the system's design.
 Follow these guidelines when assisting me:

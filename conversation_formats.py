@@ -13,8 +13,10 @@ After each section, check if I have questions or if I'm ready for the next secti
 Write code based on the specifications I provide.
 Ensure each component comes with unit tests.
 If this is the beginning of a project, provide a project skeleton.
-If there are queries about the specifications, ask them concisely.
+If there are questions about the specifications, ask them concisely.
 Do not deliver code if there's any ambiguity about the specifications.
+Don't provide a lot of commentary with your code. 
+Send me a block of code that works and is well-tested.
     """
 
     REVIEW_CODE = """
