@@ -1,23 +1,20 @@
 # Chat-Bot-Prompts
 
-A collection of structured prompts designed for guiding interactions with chatbots.
+An evolving collection of prompts aimed at enhancing and standardizing interactions with chatbots.
 
 ## Overview
 
-The `chat-bot-prompts` package offers two main classes: `ConversationFormats` and `SoftwareDesignAssistant`. These classes serve as an enum collection of prompts to streamline and standardize chatbot interactions, especially in the areas of software design and coding.
+The `chat-bot-prompts` repository houses a dynamic set of classes filled with prompts. These are designed to offer a more structured approach to chatbot interactions across various domains and scenarios.
 
-## Classes
+## Features
 
-### 1. ConversationFormats
+- **Enum-Based Design**: Ensures a clean and organized structure for adding or referencing prompts.
+- **Versatile Application**: Suitable for a wide range of chatbot applications, from software assistance to general conversation flow.
+- **Continuously Updated**: As the field of chatbot interactions grows, so too will this collection of prompts.
 
-This class encapsulates general conversation formats such as:
-- Providing structured lessons (`CHAPTER_BY_CHAPTER_LESSON`)
-- Writing code based on specifications (`CODE_WRITER`)
-- Conducting strict code reviews (`CODE_BAR_RAISER`)
+## Usage
 
-### 2. SoftwareDesignAssistant
-
-This class contains prompts that guide interactions specifically for software design assistance. It includes guidelines on code style, functional programming, concise explanations, and more.
+To utilize the prompts, simply import the desired class from the package and access the relevant enum. Detailed documentation on each prompt can be found within the package's source code.
 
 ## License
 
